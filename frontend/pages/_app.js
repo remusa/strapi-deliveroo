@@ -27,9 +27,7 @@ export default class MyApp extends App {
                     />
                 </Head>
 
-                <Container>
-                    <Component {...pageProps} />
-                </Container>
+                <Component {...pageProps} />
             </>
         )
     }
