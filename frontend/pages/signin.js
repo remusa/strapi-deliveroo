@@ -1,7 +1,9 @@
 import Layout from '../components/Layout'
 
-export default () => (
+const SignIn = () => (
     <Layout>
-        <h1>Sign Up</h1>
+        <h1>Sign In</h1>
     </Layout>
 )
+
+export default SignIn
